@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://portfolio-om-sepia.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn9EbW7MAKl5gj7Zm3kZo181PiBjunb9b-D52kKj7yh8KPNZuurbzHJGN0-Wo_aem_q5aBYLT5kBP2AdoI_-VcKw">See My Portfolio Website</a></h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Header GIF" width="100%" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header GIF" width="100%" style="border-radius: 10px;">
 </p>
 
 <div>
